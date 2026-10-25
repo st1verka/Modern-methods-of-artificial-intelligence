@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+Lab_1/transfer_learning/data/
+Lab_1/transfer_learning/mnist_data/
+Lab_1/transfer_learning/models/
+Lab_1/transfer_learning/artifacts/*.pt
+Lab_1/transfer_learning/artifacts_smoke/
